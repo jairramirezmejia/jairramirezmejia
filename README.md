@@ -4,4 +4,4 @@
 - 🌱 Actualmente estoy mejorando mis habilidades en React, Inglés y Javascript.
 - 💞️ Busco trabajos y proyectos que represente un gran reto para mis habilidades de programador y tenga un excelente clima laboral.
 - 💡  Disfruto los deporte, la fotografía y el trekking. ⚽🏐🏀📸
-- 📫 Contáctame mediante mi email: cyberal159@gmail.com.
+- 📫 Contáctame mediante mi email: jair.ramirez.dev@gmail.com
